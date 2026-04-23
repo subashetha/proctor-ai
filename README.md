@@ -1,6 +1,6 @@
 # 🎓 ProctorAI — Online Exam Proctoring System
 
-> **Submitted by:** AI Intern  
+> **Submitted by:** AI Intern  (AKA Subashetha)
 > **Organization:** [aumne.ai](https://aumne.ai)  
 > **Role:** AI Intern — RAG, LLM Applications, AI System Design  
 > **Challenge:** Intern Coding Challenge #19 — Online Exam Proctoring System
